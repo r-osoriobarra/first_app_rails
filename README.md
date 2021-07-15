@@ -1,24 +1,14 @@
-# README
+# Desafío - First App 13-07-21
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Quinto desafío del módulo "Desarrollo de aplicaciones web con Rails" @DesafíoLatam. El objetivo es realizar una aplicación utilizando los conceptos básicos de Rails.
 
-Things you may want to cover:
+## Content
 
-* Ruby version
+Este proyecto tiene sólo la rama main, que contiene principalmente las vistas:
+* one.html.erb -> landing page 
+* two.html.erb -> screenshot de rutas
+* three.html.erb -> parrafo lorem ipsum
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Constructed with
+* Ruby 2.7.3
+* Rails 5.2.6
